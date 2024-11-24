@@ -30,7 +30,7 @@
 ---
 
 ## Timeline
-| Phase         | Tasks                                  | Estimated Time |
+| Phase         | Tasks                                  | Estimated working Time |
 |---------------|----------------------------------------|----------------|
 | Phase 1       | Setup, API integration                | 1-2 days       |
 | Phase 2       | Data logging implementation           | 2-3 days       |
