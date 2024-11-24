@@ -32,11 +32,7 @@ The Weather Data Logger is a Python application that retrieves live weather data
   - `matplotlib` or `seaborn` (optional): Data visualization
 
 ### Weather API Options
-- **OpenWeatherMap** (recommended for simplicity)
-  - API Key required (free tier available).
-  - Endpoint: `http://api.openweathermap.org/data/2.5/weather`
-  - Parameters: `q` (city), `appid` (API key), `units` (e.g., metric).
-- Alternatives: WeatherAPI, AccuWeather, or NOAA API.
+- OpenWeatherMap, WeatherAPI, AccuWeather, or NOAA API.
 
 
 ## Application Features
